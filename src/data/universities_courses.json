@@ -1,0 +1,1803 @@
+[
+   {
+      "university": "Adelaide University",
+      "courses_and_qualifications": [
+         {
+            "course_title": "Bachelor of Computer Science",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $53,300",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Adelaide Academic Excellence Scholarship (50%)",
+               "Adelaide Emerging Leaders Award (25%)",
+               "Adelaide Merit Scholarship (15%)"
+            ],
+            "eligibility_criteria_india": "Minimum 75% in CBSE/ISC Class 12th board exams. Prerequisite: Mathematical Methods (Stage 2 or equivalent).",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/bcomp_bcompsci.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Bachelor of Business",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $50,500",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Adelaide Academic Excellence Scholarship (50%)",
+               "Adelaide Emerging Leaders Award (25%)",
+               "Adelaide Merit Scholarship (15%)"
+            ],
+            "eligibility_criteria_india": "Minimum 70% in CBSE/ISC Class 12th board exams.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/bbus_bbus.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Bachelor of Engineering (Civil) (Honours)",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $54,900",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Adelaide Academic Excellence Scholarship (50%)",
+               "Adelaide Emerging Leaders Award (25%)"
+            ],
+            "eligibility_criteria_india": "Minimum 80% in CBSE/ISC Class 12th board exams with Mathematics as prerequisite.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/bengc_bengcivh.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Bachelor of Engineering (Electrical and Electronic) (Honours)",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $54,900",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Adelaide Academic Excellence Scholarship (50%)",
+               "Adelaide Emerging Leaders Award (25%)"
+            ],
+            "eligibility_criteria_india": "Minimum 80% in CBSE/ISC Class 12th board exams with Mathematics as prerequisite.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/benge_bengeeh.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Bachelor of Engineering (Mechanical) (Honours)",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $54,900",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Adelaide Academic Excellence Scholarship (50%)",
+               "Adelaide Emerging Leaders Award (25%)"
+            ],
+            "eligibility_criteria_india": "Minimum 80% in CBSE/ISC Class 12th board exams with Mathematics as prerequisite.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/bengm_bengmech.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Bachelor of Commerce",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $52,200",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Adelaide Academic Excellence Scholarship (50%)",
+               "Adelaide Emerging Leaders Award (25%)",
+               "Adelaide Merit Scholarship (15%)"
+            ],
+            "eligibility_criteria_india": "Minimum 80% in CBSE/ISC Class 12th board exams.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/bcom_bcom.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Bachelor of Laws (Honours)",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $50,500",
+            "ielts_score": "7.0 overall (min 6.0 in each band)",
+            "pte_score": "65 overall (min 58 in each band)",
+            "scholarships_available": [
+               "Adelaide Academic Excellence Scholarship (50%)",
+               "Adelaide Emerging Leaders Award (25%)"
+            ],
+            "eligibility_criteria_india": "Minimum 80% in CBSE/ISC Class 12th board exams. High English proficiency required.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/blaw_llbhons.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Bachelor of Nursing",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $50,500",
+            "ielts_score": "7.0 overall (min 7.0 in each band)",
+            "pte_score": "65 overall (min 65 in each band)",
+            "scholarships_available": [
+               "Adelaide Emerging Leaders Award (25%)",
+               "Adelaide Merit Scholarship (15%)"
+            ],
+            "eligibility_criteria_india": "Minimum 75% in CBSE/ISC Class 12th board exams with Biology.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/bnurs_bnurs.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Bachelor of Cyber Security",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $53,300",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Adelaide Academic Excellence Scholarship (50%)",
+               "Adelaide Emerging Leaders Award (25%)",
+               "Adelaide Merit Scholarship (15%)"
+            ],
+            "eligibility_criteria_india": "Minimum 75% in CBSE/ISC Class 12th board exams.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/bcybs_bcybsec.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Bachelor of Psychology",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $43,400",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Adelaide Academic Excellence Scholarship (50%)",
+               "Adelaide Merit Scholarship (15%)"
+            ],
+            "eligibility_criteria_india": "Minimum 70% in CBSE/ISC Class 12th board exams.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/bpsy_bpsych.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Master of Data Science",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $52,000",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Adelaide Academic Excellence Scholarship (50%)",
+               "Adelaide Emerging Leaders Award (25%)"
+            ],
+            "eligibility_criteria_india": "Completed Bachelor's degree in a relevant field with minimum 60% aggregate.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/mds_mdatasci.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Master of Business Administration",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1.5 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $52,000",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Adelaide Academic Excellence Scholarship (50%)",
+               "Adelaide Emerging Leaders Award (25%)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree with minimum 60% aggregate. Minimum 3 years relevant work experience preferred.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/mba_busadmin.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Master of Artificial Intelligence and Machine Learning",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $52,000",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Adelaide Academic Excellence Scholarship (50%)",
+               "Adelaide Emerging Leaders Award (25%)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in Computer Science, IT, or related engineering discipline with minimum 65% aggregate.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/maiml_martintl.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Master of Engineering (Engineering Management)",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $52,000",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Adelaide Emerging Leaders Award (25%)",
+               "Adelaide Merit Scholarship (15%)"
+            ],
+            "eligibility_criteria_india": "Bachelor of Engineering or equivalent with minimum 60% aggregate.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/menga_mengm.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Master of Public Health",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $50,500",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Adelaide Emerging Leaders Award (25%)",
+               "Adelaide Merit Scholarship (15%)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in health, medicine, nursing, or related field with minimum 60% aggregate.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/mpubh_mpubhealth.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Master of Accounting",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $52,200",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Adelaide Academic Excellence Scholarship (50%)",
+               "Adelaide Merit Scholarship (15%)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in Accounting, Commerce, or Business with minimum 60% aggregate.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/macc_maccount.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Master of Architecture",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $50,500",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Adelaide Academic Excellence Scholarship (50%)",
+               "Adelaide Emerging Leaders Award (25%)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in Architecture or Architectural Design with minimum 60% aggregate.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/march_march.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Master of Marketing",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1.5 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $50,500",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Adelaide Academic Excellence Scholarship (50%)",
+               "Adelaide Merit Scholarship (15%)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in any discipline with minimum 60% aggregate.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/mmark_mmark.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Master of Information Technology (Cyber Security)",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $52,000",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Adelaide Academic Excellence Scholarship (50%)",
+               "Adelaide Emerging Leaders Award (25%)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in Computing, IT, or Engineering with minimum 60% aggregate.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/mit_mitcs.html",
+            "university_name": "Adelaide University"
+         },
+         {
+            "course_title": "Master of Laws",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1 Year Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $50,500",
+            "ielts_score": "7.0 overall (min 6.0 in each band)",
+            "pte_score": "65 overall (min 58 in each band)",
+            "scholarships_available": [
+               "Adelaide Academic Excellence Scholarship (50%)",
+               "Adelaide Emerging Leaders Award (25%)"
+            ],
+            "eligibility_criteria_india": "LLB or equivalent law degree with minimum 60% aggregate.",
+            "course_url": "https://www.adelaide.edu.au/degree-finder/mlaw_mlaws.html",
+            "university_name": "Adelaide University"
+         }
+      ]
+   },
+   {
+      "university": "The University of Melbourne",
+      "courses_and_qualifications": [
+         {
+            "course_title": "Bachelor of Science",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $51,312",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Melbourne International Undergraduate Scholarship",
+               "Science Abroad Travelling Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 80% in CBSE/ISC Class 12th board exams. Prerequisite: Mathematics.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Bachelor of Commerce",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $54,464",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Melbourne International Undergraduate Scholarship",
+               "Dean's Excellence Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 85% in CBSE/ISC Class 12th board exams. Must include Mathematics.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Bachelor of Arts",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $39,936",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Melbourne International Undergraduate Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 75% in CBSE/ISC Class 12th board exams.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Bachelor of Biomedicine",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $51,312",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Melbourne International Undergraduate Scholarship",
+               "Kwong Lee Dow Young Scholars Program"
+            ],
+            "eligibility_criteria_india": "Minimum 93% in CBSE/ISC Class 12th board exams. Prerequisite: Biology and Chemistry.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Bachelor of Design",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $46,464",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Melbourne International Undergraduate Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 75% in CBSE/ISC Class 12th board exams. Portfolio submission required.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Bachelor of Environments",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $46,464",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Melbourne International Undergraduate Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 75% in CBSE/ISC Class 12th board exams.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-environments/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Bachelor of Fine Arts",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $44,416",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Melbourne International Undergraduate Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 75% in CBSE/ISC Class 12th board exams. Portfolio and audition required.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Bachelor of Music",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $44,416",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Melbourne International Undergraduate Scholarship",
+               "Conservatorium Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 75% in CBSE/ISC Class 12th board exams. Audition required.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Bachelor of Agriculture",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $46,464",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Melbourne International Undergraduate Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 75% in CBSE/ISC Class 12th board exams. Biology or Chemistry preferred.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Bachelor of Social Work",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $39,936",
+            "ielts_score": "7.0 overall (min 7.0 in each band)",
+            "pte_score": "65 overall (min 65 in each band)",
+            "scholarships_available": [
+               "Melbourne International Undergraduate Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 75% in CBSE/ISC Class 12th board exams.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-social-work/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Master of Engineering (Software)",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $57,120",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Melbourne School of Engineering Graduate Scholarship"
+            ],
+            "eligibility_criteria_india": "Bachelor of Engineering or Computer Science with minimum 65% aggregate (First Class preferred).",
+            "course_url": "https://study.unimelb.edu.au/find/courses/postgraduate/master-of-engineering-software/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Master of Management",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1.5 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $54,000",
+            "ielts_score": "7.0 overall (min 6.5 in each band)",
+            "pte_score": "65 overall (min 58 in each band)",
+            "scholarships_available": [],
+            "eligibility_criteria_india": "Any Bachelor's degree with strong academic results (minimum 65% aggregate).",
+            "course_url": "https://study.unimelb.edu.au/find/courses/postgraduate/master-of-management/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Master of Finance",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1.5 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $54,464",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Melbourne Business School Scholarship"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in Commerce, Economics, Finance or Engineering with minimum 65% aggregate.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/postgraduate/master-of-finance/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Master of Business Analytics",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1.5 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $54,464",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Melbourne Business School Scholarship"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in a quantitative discipline (Statistics, Computing, Engineering, Commerce) with minimum 65% aggregate.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/postgraduate/master-of-business-analytics/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Master of Information Technology",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $51,312",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Melbourne School of Engineering Graduate Scholarship"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in Computer Science, IT, or related field with minimum 65% aggregate.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/postgraduate/master-of-information-technology/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Master of Data Science",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $51,312",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Melbourne School of Engineering Graduate Scholarship"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in Computing, Mathematics, Statistics, or Engineering with minimum 65% aggregate.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/postgraduate/master-of-data-science/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Master of Public Health",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $48,384",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Melbourne School of Population and Global Health Scholarship"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in a health-related field (medicine, nursing, allied health, science) with minimum 65% aggregate.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/postgraduate/master-of-public-health/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Master of Architecture",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $48,384",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Melbourne School of Design Scholarship"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in Architecture or related design field with minimum 65% aggregate. Portfolio required.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/postgraduate/master-of-architecture/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Master of Teaching (Secondary)",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $32,736",
+            "ielts_score": "7.5 overall (min 7.0 in each band)",
+            "pte_score": "73 overall (min 65 in each band)",
+            "scholarships_available": [
+               "Melbourne Graduate Scholarship for Teaching"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in a discipline relevant to a secondary school teaching area with minimum 65% aggregate.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/postgraduate/master-of-teaching-secondary/",
+            "university_name": "The University of Melbourne"
+         },
+         {
+            "course_title": "Master of Laws (LLM)",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1 Year Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "AUD $54,464",
+            "ielts_score": "7.0 overall (min 6.5 in Writing)",
+            "pte_score": "65 overall (min 58 in each band)",
+            "scholarships_available": [
+               "Melbourne Law School International Scholarship"
+            ],
+            "eligibility_criteria_india": "LLB or LLB (Hons) with minimum 60% aggregate from a recognised Indian law school.",
+            "course_url": "https://study.unimelb.edu.au/find/courses/postgraduate/master-of-laws/",
+            "university_name": "The University of Melbourne"
+         }
+      ]
+   },
+   {
+      "university": "The University of Sydney",
+      "courses_and_qualifications": [
+         {
+            "course_title": "Bachelor of Advanced Computing",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "February",
+               "August"
+            ],
+            "tuition_fees_annual": "AUD $56,000",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "61 overall (min 54 in each band)",
+            "scholarships_available": [
+               "Sydney International Student Award (20%)",
+               "Vice-Chancellor's Global Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 85% in CBSE/ISC Class 12th. Strong Mathematics background required.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-advanced-computing.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Bachelor of Commerce",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February",
+               "August"
+            ],
+            "tuition_fees_annual": "AUD $55,150",
+            "ielts_score": "7.0 overall (min 6.0 in each band)",
+            "pte_score": "68 overall (min 58 in each band)",
+            "scholarships_available": [
+               "Vice-Chancellor's International Scholarship",
+               "Business School International Merit Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 87% in CBSE/ISC Class 12th. Must have studied Mathematics.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-commerce.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Bachelor of Engineering (Honours)",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $56,000",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "61 overall (min 54 in each band)",
+            "scholarships_available": [
+               "Sydney International Student Award (20%)",
+               "Faculty of Engineering International Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 85% in CBSE/ISC Class 12th with Physics and Mathematics.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-engineering-honours.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Bachelor of Science",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February",
+               "August"
+            ],
+            "tuition_fees_annual": "AUD $52,000",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "61 overall (min 54 in each band)",
+            "scholarships_available": [
+               "Sydney International Student Award (20%)"
+            ],
+            "eligibility_criteria_india": "Minimum 80% in CBSE/ISC Class 12th with a relevant science subject.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-science.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Bachelor of Laws (LLB) (Honours)",
+            "qualification_level": "Undergraduate",
+            "course_duration": "5 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $49,200",
+            "ielts_score": "7.0 overall (min 7.0 in each band)",
+            "pte_score": "72 overall (min 65 in each band)",
+            "scholarships_available": [
+               "Vice-Chancellor's International Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 93% in CBSE/ISC Class 12th. Highly competitive entry.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-laws.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Bachelor of Medical Science",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $52,800",
+            "ielts_score": "7.0 overall (min 7.0 in each band)",
+            "pte_score": "72 overall (min 65 in each band)",
+            "scholarships_available": [
+               "Sydney Medical School International Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 90% in CBSE/ISC Class 12th with Biology and Chemistry.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-medical-science.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Bachelor of Economics",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February",
+               "August"
+            ],
+            "tuition_fees_annual": "AUD $55,150",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "61 overall (min 54 in each band)",
+            "scholarships_available": [
+               "Sydney International Student Award (20%)",
+               "Business School International Merit Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 85% in CBSE/ISC Class 12th with Mathematics.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-economics.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Bachelor of Design Architecture",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $49,200",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "61 overall (min 54 in each band)",
+            "scholarships_available": [
+               "Sydney International Student Award (20%)"
+            ],
+            "eligibility_criteria_india": "Minimum 80% in CBSE/ISC Class 12th. Portfolio submission required.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-design-in-architecture.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Bachelor of Nursing",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $51,000",
+            "ielts_score": "7.0 overall (min 7.0 in each band)",
+            "pte_score": "72 overall (min 65 in each band)",
+            "scholarships_available": [
+               "Faculty of Medicine and Health International Award"
+            ],
+            "eligibility_criteria_india": "Minimum 80% in CBSE/ISC Class 12th with Biology and English.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-nursing-advanced-studies.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Bachelor of Arts",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February",
+               "August"
+            ],
+            "tuition_fees_annual": "AUD $45,500",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "61 overall (min 54 in each band)",
+            "scholarships_available": [
+               "Sydney International Student Award (20%)"
+            ],
+            "eligibility_criteria_india": "Minimum 75% in CBSE/ISC Class 12th board exams.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-arts.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Master of Public Health",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1.5 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $54,000",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "61 overall (min 54 in each band)",
+            "scholarships_available": [],
+            "eligibility_criteria_india": "Medical, Nursing, or Science Bachelor's degree with minimum 60% aggregate.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/pc/master-of-public-health.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Master of Computer Science",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February",
+               "August"
+            ],
+            "tuition_fees_annual": "AUD $58,000",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "61 overall (min 54 in each band)",
+            "scholarships_available": [
+               "Sydney International Student Award (20%)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in Computer Science or IT with minimum 65% aggregate.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/pc/master-of-computer-science.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Master of Cybersecurity",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1.5 Years Full-time",
+            "intake_months": [
+               "February",
+               "August"
+            ],
+            "tuition_fees_annual": "AUD $56,500",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "61 overall (min 54 in each band)",
+            "scholarships_available": [
+               "Sydney International Student Award (20%)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in IT, Computer Science, or Engineering with minimum 65% aggregate.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/pc/master-of-cybersecurity.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Master of Professional Accounting",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February",
+               "August"
+            ],
+            "tuition_fees_annual": "AUD $51,500",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "61 overall (min 54 in each band)",
+            "scholarships_available": [
+               "Business School International Merit Scholarship"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in any discipline with minimum 65% aggregate.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/pc/master-of-professional-accounting.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Master of Education",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February",
+               "August"
+            ],
+            "tuition_fees_annual": "AUD $48,100",
+            "ielts_score": "7.5 overall (min 7.0 in each band)",
+            "pte_score": "73 overall (min 65 in each band)",
+            "scholarships_available": [],
+            "eligibility_criteria_india": "Bachelor's degree in Education or related field with minimum 65% aggregate.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/pc/master-of-education.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Master of Data Science",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1.5 Years Full-time",
+            "intake_months": [
+               "February",
+               "August"
+            ],
+            "tuition_fees_annual": "AUD $56,500",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "61 overall (min 54 in each band)",
+            "scholarships_available": [
+               "Sydney International Student Award (20%)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in a quantitative field (Statistics, Maths, IT, Engineering) with minimum 65% aggregate.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/pc/master-of-data-science.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Master of Architecture",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $49,500",
+            "ielts_score": "7.0 overall (min 6.0 in each band)",
+            "pte_score": "65 overall (min 54 in each band)",
+            "scholarships_available": [
+               "Sydney International Student Award (20%)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in Architecture or equivalent design field with minimum 65% aggregate. Portfolio required.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/pc/master-of-architecture.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Master of Laws (LLM)",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1 Year Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $54,000",
+            "ielts_score": "7.0 overall (min 7.0 in each band)",
+            "pte_score": "72 overall (min 65 in each band)",
+            "scholarships_available": [
+               "Sydney Law School International Scholarship"
+            ],
+            "eligibility_criteria_india": "LLB or equivalent law degree with minimum 65% aggregate.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/pc/master-of-laws.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Master of Business Administration (MBA)",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1.5 Years Full-time",
+            "intake_months": [
+               "February",
+               "August"
+            ],
+            "tuition_fees_annual": "AUD $60,600",
+            "ielts_score": "7.0 overall (min 6.5 in each band)",
+            "pte_score": "68 overall (min 58 in each band)",
+            "scholarships_available": [
+               "Business School International Merit Scholarship"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree with minimum 65% aggregate plus at least 3 years relevant work experience.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/pc/master-of-business-administration-full-time.html",
+            "university_name": "The University of Sydney"
+         },
+         {
+            "course_title": "Master of Pharmacy",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "AUD $51,500",
+            "ielts_score": "7.0 overall (min 7.0 in each band)",
+            "pte_score": "72 overall (min 65 in each band)",
+            "scholarships_available": [],
+            "eligibility_criteria_india": "Bachelor of Pharmacy or equivalent from a recognised Indian university with minimum 65% aggregate.",
+            "course_url": "https://www.sydney.edu.au/courses/courses/pc/master-of-pharmacy.html",
+            "university_name": "The University of Sydney"
+         }
+      ]
+   },
+   {
+      "university": "The University of Auckland",
+      "courses_and_qualifications": [
+         {
+            "course_title": "Bachelor of Commerce",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "NZD $44,234",
+            "ielts_score": "6.0 overall (min 5.5 in each band)",
+            "pte_score": "50 overall (min 42 in each band)",
+            "scholarships_available": [
+               "University of Auckland International Student Excellence Scholarship",
+               "India High Achievers Scholarship (up to NZD $20,000)"
+            ],
+            "eligibility_criteria_india": "Minimum 75% in CBSE or CISCE Class 12th board exams.",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-commerce-bcom.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Bachelor of Engineering (Honours)",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "NZD $55,484",
+            "ielts_score": "6.0 overall (min 5.5 in each band)",
+            "pte_score": "50 overall (min 42 in each band)",
+            "scholarships_available": [
+               "University of Auckland International Student Excellence Scholarship",
+               "India High Achievers Scholarship (up to NZD $20,000)"
+            ],
+            "eligibility_criteria_india": "Minimum 80% in CBSE/CISCE with Mathematics and Physics at 85%+ overall.",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-engineering-hons-be-hons.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Bachelor of Science",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "NZD $44,234",
+            "ielts_score": "6.0 overall (min 5.5 in each band)",
+            "pte_score": "50 overall (min 42 in each band)",
+            "scholarships_available": [
+               "University of Auckland International Student Excellence Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 75% in CBSE or CISCE Class 12th board exams with a relevant science subject.",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-science-bsc.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Bachelor of Arts",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "NZD $35,896",
+            "ielts_score": "6.0 overall (min 5.5 in each band)",
+            "pte_score": "50 overall (min 42 in each band)",
+            "scholarships_available": [
+               "University of Auckland International Student Excellence Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 70% in CBSE or CISCE Class 12th board exams.",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-arts-ba.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Bachelor of Design",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "NZD $55,484",
+            "ielts_score": "6.0 overall (min 5.5 in each band)",
+            "pte_score": "50 overall (min 42 in each band)",
+            "scholarships_available": [
+               "University of Auckland International Student Excellence Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 75% in CBSE or CISCE Class 12th board exams. Portfolio submission required.",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-design-bdes.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Bachelor of Law (LLB)",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "NZD $44,234",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "University of Auckland International Student Excellence Scholarship",
+               "India High Achievers Scholarship (up to NZD $20,000)"
+            ],
+            "eligibility_criteria_india": "Minimum 80% in CBSE or CISCE Class 12th board exams.",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-laws-llb.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Bachelor of Health Sciences",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "NZD $44,234",
+            "ielts_score": "6.0 overall (min 5.5 in each band)",
+            "pte_score": "50 overall (min 42 in each band)",
+            "scholarships_available": [
+               "University of Auckland International Student Excellence Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 75% in CBSE or CISCE Class 12th board exams with Biology.",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-health-sciences-bhsc.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Bachelor of Music",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "NZD $47,221",
+            "ielts_score": "6.0 overall (min 5.5 in each band)",
+            "pte_score": "50 overall (min 42 in each band)",
+            "scholarships_available": [
+               "University of Auckland International Student Excellence Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 70% in CBSE or CISCE Class 12th board exams. Audition required.",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-bmus.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Bachelor of Advanced Science (Honours)",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "NZD $44,234",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "University of Auckland International Student Excellence Scholarship",
+               "India High Achievers Scholarship (up to NZD $20,000)"
+            ],
+            "eligibility_criteria_india": "Minimum 85% in CBSE or CISCE Class 12th board exams with relevant science subjects.",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-advanced-science-honours-badvsc-hons.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Bachelor of Education (Teaching)",
+            "qualification_level": "Undergraduate",
+            "course_duration": "3 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "NZD $35,896",
+            "ielts_score": "7.0 overall (min 7.0 in each band)",
+            "pte_score": "65 overall (min 65 in each band)",
+            "scholarships_available": [
+               "University of Auckland International Student Excellence Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 70% in CBSE or CISCE Class 12th board exams.",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-teaching-beteach.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Master of Artificial Intelligence",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1.5 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "NZD $55,484",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [],
+            "eligibility_criteria_india": "BSc in Computer Science with a B average (approx. 65%+).",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-artificial-intelligence-mai.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Master of Business Management",
+            "qualification_level": "Postgraduate",
+            "course_duration": "15 Months Full-time",
+            "intake_months": [
+               "April",
+               "September"
+            ],
+            "tuition_fees_annual": "NZD $58,000",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Business School Dean's Scholarship"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in any discipline with a B- average (approx. 60%+).",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-business-management-mbm.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Master of Commerce",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1 Year Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "NZD $47,674",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Business School International Excellence Award"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in Commerce, Finance, Economics, or related field with minimum 65% aggregate.",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-commerce-mcom.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Master of Engineering Management",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1.5 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "NZD $55,484",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Faculty of Engineering International Scholarship"
+            ],
+            "eligibility_criteria_india": "Bachelor of Engineering or equivalent with minimum 65% aggregate.",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-management-mengman.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Master of Public Health",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1.5 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "NZD $55,214",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [],
+            "eligibility_criteria_india": "Bachelor's degree in a health, science, or social science discipline with minimum 65% aggregate.",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-public-health-mph.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Master of Education",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1 Year Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "NZD $43,674",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [],
+            "eligibility_criteria_india": "Bachelor's degree in Education or related field with minimum 65% aggregate.",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-education-med.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Master of Architecture",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February"
+            ],
+            "tuition_fees_annual": "NZD $55,484",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Creative Arts and Industries Postgraduate Scholarship"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in Architecture or related design field with minimum 65% aggregate. Portfolio required.",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-march.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Master of Laws (LLM)",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1 Year Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "NZD $48,595",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [],
+            "eligibility_criteria_india": "LLB or equivalent law degree with minimum 65% aggregate.",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-laws-llm.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Master of Science",
+            "qualification_level": "Postgraduate",
+            "course_duration": "2 Years Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "NZD $55,484",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [
+               "Faculty of Science International Student Scholarship"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in a relevant science discipline with minimum 65% aggregate (B average or above).",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-science-msc.html",
+            "university_name": "The University of Auckland"
+         },
+         {
+            "course_title": "Master of Professional Studies",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1 Year Full-time",
+            "intake_months": [
+               "February",
+               "July"
+            ],
+            "tuition_fees_annual": "NZD $44,970",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "58 overall (min 50 in each band)",
+            "scholarships_available": [],
+            "eligibility_criteria_india": "Bachelor's degree in any discipline with minimum 65% aggregate. Relevant professional experience advantageous.",
+            "course_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-studies-mps.html",
+            "university_name": "The University of Auckland"
+         }
+      ]
+   },
+   {
+      "university": "Trinity College Dublin",
+      "courses_and_qualifications": [
+         {
+            "course_title": "Computer Science (BA / Master in Computer Science)",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €27,320",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "Global Excellence Scholarship",
+               "Indian Postgraduate Scholarship (EUR €3,000 reduction)"
+            ],
+            "eligibility_criteria_india": "Minimum 80–85% in CBSE/ISC Class 12th. Strong Mathematics required.",
+            "course_url": "https://www.tcd.ie/courses/undergraduate/courses/computer-science/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "Business, Economic and Social Studies (BESS)",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €21,000",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "E3 Excellence Scholarship",
+               "Global Excellence Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 80% in CBSE/ISC Class 12th board exams.",
+            "course_url": "https://www.tcd.ie/courses/undergraduate/courses/bess/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "Law (LLB)",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €21,570",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "Global Excellence Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 85% in CBSE/ISC Class 12th board exams.",
+            "course_url": "https://www.tcd.ie/courses/undergraduate/courses/law/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "Engineering (Civil, Structural and Environmental)",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €26,250",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "Global Excellence Scholarship",
+               "E3 Excellence Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 80–85% in CBSE/ISC Class 12th with Mathematics and Physics.",
+            "course_url": "https://www.tcd.ie/courses/undergraduate/courses/engineering/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "Genetics",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €26,250",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "Global Excellence Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 80–85% in CBSE/ISC Class 12th with Biology and Chemistry.",
+            "course_url": "https://www.tcd.ie/courses/undergraduate/courses/genetics/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "Medicine (MB, BCh, BAO)",
+            "qualification_level": "Undergraduate",
+            "course_duration": "5 Years Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €57,000",
+            "ielts_score": "7.0 overall (min 7.0 in each band)",
+            "pte_score": "70 overall (min 65 in each band)",
+            "scholarships_available": [],
+            "eligibility_criteria_india": "Minimum 93% in CBSE/ISC Class 12th with Biology, Chemistry, and Physics. UCAT required.",
+            "course_url": "https://www.tcd.ie/courses/undergraduate/courses/medicine/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "Pharmacy",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €29,570",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "Global Excellence Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 85% in CBSE/ISC Class 12th with Biology and Chemistry.",
+            "course_url": "https://www.tcd.ie/courses/undergraduate/courses/pharmacy/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "Global Business",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €20,630",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "E3 Excellence Scholarship",
+               "Global Excellence Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 80% in CBSE/ISC Class 12th board exams.",
+            "course_url": "https://www.tcd.ie/courses/undergraduate/courses/global-business/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "Psychology",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €21,570",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "Global Excellence Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 80% in CBSE/ISC Class 12th board exams.",
+            "course_url": "https://www.tcd.ie/courses/undergraduate/courses/psychology/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "Biomedical Engineering",
+            "qualification_level": "Undergraduate",
+            "course_duration": "4 Years Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €26,250",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "Global Excellence Scholarship",
+               "E3 Excellence Scholarship"
+            ],
+            "eligibility_criteria_india": "Minimum 80–85% in CBSE/ISC Class 12th with Mathematics, Physics, and/or Biology.",
+            "course_url": "https://www.tcd.ie/courses/undergraduate/courses/biomedical-engineering/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "MSc in Financial Risk Management",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1 Year Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €23,000",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "Indian Postgraduate Scholarship (EUR €3,000 reduction)"
+            ],
+            "eligibility_criteria_india": "First Class Honours equivalent Bachelor's degree in Finance, Economics, or Mathematics.",
+            "course_url": "https://www.tcd.ie/courses/postgraduate/courses/financial-risk-management-msc/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "MSc in Computer Science",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1 Year Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €26,250",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "Indian Postgraduate Scholarship (EUR €3,000 reduction)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in Computer Science or related computing discipline with minimum 70%.",
+            "course_url": "https://www.tcd.ie/courses/postgraduate/courses/computer-science--data-science-msc/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "MSc in Management",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1 Year Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €22,500",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "Indian Postgraduate Scholarship (EUR €3,000 reduction)",
+               "Global Excellence Scholarship"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in any discipline with minimum 60% aggregate.",
+            "course_url": "https://www.tcd.ie/courses/postgraduate/courses/management-msc/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "MBA (Full-Time)",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1 Year Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €37,300",
+            "ielts_score": "7.0 overall (min 6.5 in each band)",
+            "pte_score": "67 overall (min 60 in each band)",
+            "scholarships_available": [
+               "Trinity Business School MBA Scholarship"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree with minimum 60% aggregate plus minimum 3 years relevant work experience. GMAT 600+ required.",
+            "course_url": "https://www.tcd.ie/courses/postgraduate/courses/the-trinity-mba-full-time/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "MSc in Data Science",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1 Year Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €24,500",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "Indian Postgraduate Scholarship (EUR €3,000 reduction)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in a quantitative discipline (Computer Science, Statistics, Mathematics, Engineering) with minimum 65%.",
+            "course_url": "https://www.tcd.ie/courses/postgraduate/courses/data-science-msc/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "MSc in Biomedical Engineering",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1 Year Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €24,500",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "Indian Postgraduate Scholarship (EUR €3,000 reduction)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in Biomedical Engineering, Electrical Engineering, or Mechanical Engineering with minimum 65%.",
+            "course_url": "https://www.tcd.ie/courses/postgraduate/courses/biomedical-engineering-msc/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "MSc in International Politics",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1 Year Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €17,600",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "Indian Postgraduate Scholarship (EUR €3,000 reduction)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in Political Science, International Relations, or Social Sciences with minimum 60%.",
+            "course_url": "https://www.tcd.ie/courses/postgraduate/courses/international-politics-msc/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "MSc in Climate Adaptation Engineering",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1 Year Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €22,500",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "Indian Postgraduate Scholarship (EUR €3,000 reduction)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in Engineering or Environmental Science with minimum 65%.",
+            "course_url": "https://www.tcd.ie/courses/postgraduate/courses/climate-adaptation-engineering-msc/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "MPhil in International History",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1 Year Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €17,600",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "Indian Postgraduate Scholarship (EUR €3,000 reduction)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in History or related Humanities discipline with minimum 60%.",
+            "course_url": "https://www.tcd.ie/courses/postgraduate/courses/international-history-mphil/",
+            "university_name": "Trinity College Dublin"
+         },
+         {
+            "course_title": "MSc in High Performance Computing",
+            "qualification_level": "Postgraduate",
+            "course_duration": "1 Year Full-time",
+            "intake_months": [
+               "September"
+            ],
+            "tuition_fees_annual": "EUR €23,500",
+            "ielts_score": "6.5 overall (min 6.0 in each band)",
+            "pte_score": "63 overall (min 55 in each band)",
+            "scholarships_available": [
+               "Indian Postgraduate Scholarship (EUR €3,000 reduction)"
+            ],
+            "eligibility_criteria_india": "Bachelor's degree in Computer Science, Physics, or Engineering with minimum 65%.",
+            "course_url": "https://www.tcd.ie/courses/postgraduate/courses/high-performance-computing-msc/",
+            "university_name": "Trinity College Dublin"
+         }
+      ]
+   }
+]
