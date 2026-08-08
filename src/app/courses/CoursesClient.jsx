@@ -81,7 +81,7 @@ function CustomDropdown({ value, options, onChange, icon: Icon }) {
    );
 }
 
-export default function CoursesClient() {
+export default function CoursesContent() {
    const searchParams = useSearchParams();
 
    const initialLevel = searchParams.get("level") || "all";
