@@ -1,7 +1,7 @@
 /* eslint-disable react-hooks/set-state-in-effect */
 "use client";
 
-import { useState, useEffect, useMemo, useRef } from "react";
+import { useState, useEffect, useMemo, useRef, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import {
    Search,
@@ -86,7 +86,8 @@ function CustomDropdown({ value, options, onChange, icon: Icon }) {
    );
 }
 
-export default function CoursesPage() {
+// 1. Rename the main functional component to "CoursesContent"
+function CoursesContent() {
    const searchParams = useSearchParams();
 
    const initialLevel = searchParams.get("level") || "all";
@@ -483,5 +484,22 @@ export default function CoursesPage() {
             )}
          </div>
       </div>
+   );
+}
+
+// 2. Export a new default component that wraps the content in a Suspense boundary
+export default function CoursesPage() {
+   return (
+      <Suspense
+         fallback={
+            <div className="min-h-screen flex items-center justify-center bg-slate-50 dark:bg-slate-950">
+               <div className="animate-pulse flex items-center gap-2 text-blue-600 font-bold">
+                  <BookOpen className="w-5 h-5 animate-bounce" /> Loading Courses...
+               </div>
+            </div>
+         }
+      >
+         <CoursesContent />
+      </Suspense>
    );
 }
